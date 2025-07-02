@@ -1,5 +1,5 @@
 {
-    "name": "php-llm/llm-chain-bundle",
+    "name": "gundesli/llm-chain-bundle",
     "type": "symfony-bundle",
     "description": "Symfony integration bundle for php-llm/llm-chain",
     "license": "MIT",
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "php-llm/llm-chain": "^0.23",
+        "php-llm/llm-chain": "dev-feat/albert-api-support",
         "symfony/config": "^6.4 || ^7.0",
         "symfony/dependency-injection": "^6.4 || ^7.0",
         "symfony/framework-bundle": "^6.4 || ^7.0",
